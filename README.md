@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubh1415
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning c programming.
 - 💞️ I’m looking to collaborate on coding hackathon.
 - 📫 How to reach me ...
